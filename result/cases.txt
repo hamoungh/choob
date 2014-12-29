@@ -1,0 +1,24 @@
+Here you go:
+Basically, you are repeating 3 experimental runs for each of the two workloads.
+
+[November 8, 2010]
+
+Experimental Design:  Preliminary characterization of the workloads A,
+FIFA98 - 21st day.
+Red and Blue modify amplitude:
+For the experiments  1minute == 15seconds of experiment time:
+
+Parameters:                 CASE 1							 CASE 2              		    CASE 3
+==================================================================================================
+Rest Period:          5 minutes,       						| 3  minutes           			|  10 minutes
+Decision Threshold:    51%              					| 66%              			    |  33%
+Increase Value:        1									|  2                  			|  1
+Decrease Value:        1                					|1                   			|   2
+Workload:              A then B         					|A then B           			|  A then B
+cpu-idle_time         < 40 for 4 minutes (increase)   		| < 50 for 3 minutes (increase) | < 30 for 2 minutes (increase)
+                      > 50 for 1 minutes (decrease)   		| > 60 for 3 minutes (decrease) | > 60 for 1 minutes (decrease)
+
+
+
+
+

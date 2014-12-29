@@ -1,0 +1,12 @@
+\begin{figure*}
+    \centering
+    \subfloat[][]{\includegraphics[width=0.80\textwidth]{figure/case@@casenum@@@@workload@@/array_instance_number_time.eps
+    \subfloat[][]{\includegraphics[width=0.80\textwidth]{figure/case@@casenum@@@@workload@@/avg_idle_time_over_time.eps
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.80\textwidth]{figure/case@@casenum@@@@workload@@/error_over_time.eps
+    \subfloat[][]{\includegraphics[width=0.80\textwidth]{figure/case@@casenum@@@@workload@@/response_time_over_time.eps
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.80\textwidth]{figure/case@@casenum@@@@workload@@/throughput_over_time.eps,
+    \subfloat[][]{\includegraphics[width=0.80\textwidth]{figure/case@@casenum@@@@workload@@/workload_over_time.eps
+    \qquad
+\end{figure*}

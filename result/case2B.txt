@@ -1,0 +1,269 @@
+rightscale->instnum:0,utils:98, 99
+rt:0.04,through:2.2,tt:0.39,num_interact:33,Intrvl:15,num_users:1,errors:0
+rightscale->instnum:0,utils:97, 95
+rt:0.19,through:83.13,tt:0.34,num_interact:1247,Intrvl:15,num_users:45,errors:0
+rightscale->instnum:0,utils:45, 48
+rt:0.72,through:84.73,tt:0.35,num_interact:1271,Intrvl:15,num_users:88,errors:0
+rightscale->instnum:0,utils:16, 13
+rt:1.16,through:82.93,tt:0.35,num_interact:1244,Intrvl:15,num_users:132,errors:0
+rightscale->instnum:0,utils:4, 2
+rt:1.68,through:85.73,tt:0.34,num_interact:1286,Intrvl:15,num_users:176,errors:0
+rightscale->instnum:0,utils:2, 0
+rt:2.1,through:84.73,tt:0.36,num_interact:1271,Intrvl:15,num_users:220,errors:0
+rightscale->instnum:1,utils:0, 1
+rt:2.68,through:81.8,tt:0.35,num_interact:1232,Intrvl:15,num_users:262,errors:0
+rightscale->instnum:1,utils:0, 0
+rightscale->instnum:1,utils:0, 0
+rt:4.77,through:78.67,tt:0.37,num_interact:1386,Intrvl:15,num_users:459,errors:0
+rightscale->instnum:1,utils:0, 0
+rt:5.31,through:85.53,tt:0.35,num_interact:1283,Intrvl:15,num_users:468,errors:0
+rightscale->instnum:1,utils:9, 10
+rt:6.94,through:91.6,tt:0.39,num_interact:1374,Intrvl:15,num_users:740,errors:0
+rightscale->instnum:1,utils:8, 5
+rt:9.55,through:104.2,tt:0.36,num_interact:1570,Intrvl:15,num_users:482,errors:0
+rightscale->instnum:1,utils:42, 51
+rightscale->instnum:1,utils:19, 0
+rt:7.23,through:81.47,tt:0.36,num_interact:1222,Intrvl:15,num_users:600,errors:0
+rightscale->instnum:1,utils:16, 10
+rt:6.67,through:74.33,tt:0.33,num_interact:1115,Intrvl:15,num_users:543,errors:0
+rightscale->instnum:1,utils:9, 7
+rt:4.29,through:87.33,tt:0.35,num_interact:1310,Intrvl:15,num_users:337,errors:0
+rightscale->instnum:1,utils:0, 0
+rt:3.7,through:81.93,tt:0.33,num_interact:1229,Intrvl:15,num_users:337,errors:0
+rightscale->instnum:1,utils:0, 0
+rt:5.16,through:81.07,tt:0.38,num_interact:1254,Intrvl:15,num_users:515,errors:0
+rightscale->instnum:1,utils:0, 0
+rt:6.57,through:77.2,tt:0.35,num_interact:1158,Intrvl:15,num_users:562,errors:0
+rightscale->instnum:1,utils:0, 3
+rt:4.55,through:88.33,tt:0.35,num_interact:1325,Intrvl:15,num_users:375,errors:0
+rt:4.04,through:79.67,tt:0.36,num_interact:1195,Intrvl:15,num_users:406,errors:0
+rt:5.01,through:82.47,tt:0.35,num_interact:1237,Intrvl:15,num_users:450,errors:0
+rt:4.05,through:81.47,tt:0.34,num_interact:1222,Intrvl:15,num_users:319,errors:0
+rt:6.04,through:70.2,tt:0.4,num_interact:1116,Intrvl:15,num_users:628,errors:0
+rightscale->instnum:1,utils:0, 0
+rightscale->instnum:1,utils:0, 0
+rt:6.47,through:81.47,tt:0.35,num_interact:1468,Intrvl:15,num_users:498,errors:0
+rightscale->instnum:1,utils:1, 0
+rt:4.92,through:85.6,tt:0.37,num_interact:1295,Intrvl:15,num_users:446,errors:0
+rightscale->instnum:1,utils:6, 6
+rt:6.55,through:80,tt:0.38,num_interact:1200,Intrvl:15,num_users:645,errors:0
+rightscale->instnum:3,utils:0, 2
+rt:6.62,through:83.67,tt:0.35,num_interact:1255,Intrvl:15,num_users:515,errors:12
+rightscale->instnum:3,utils:10, 7
+rt:5.28,through:81.13,tt:0.35,num_interact:1811,Intrvl:15,num_users:506,errors:0
+rightscale->instnum:3,utils:26, 27
+rt:3.82,through:101.73,tt:0.35,num_interact:1581,Intrvl:15,num_users:384,errors:0
+rightscale->instnum:3,utils:35, 42
+rightscale->instnum:3,utils:25, 25
+rt:5.54,through:91.27,tt:0.39,num_interact:1427,Intrvl:15,num_users:627,errors:0
+rightscale->instnum:3,utils:30, 42
+rt:5.39,through:90.93,tt:0.36,num_interact:1364,Intrvl:15,num_users:459,errors:0
+rightscale->instnum:3,utils:37, 22
+rt:5.2,through:69,tt:0.36,num_interact:1035,Intrvl:15,num_users:600,errors:0
+rightscale->instnum:3,utils:47, 47
+rt:6.18,through:89.6,tt:0.36,num_interact:1473,Intrvl:15,num_users:470,errors:0
+rightscale->instnum:3,utils:15, 16
+rt:2.09,through:117,tt:0.36,num_interact:1801,Intrvl:15,num_users:245,errors:0
+rt:4.73,through:84.8,tt:0.39,num_interact:1272,Intrvl:15,num_users:534,errors:0
+rightscale->instnum:5,utils:22, 26
+rt:4.52,through:90.8,tt:0.34,num_interact:1646,Intrvl:15,num_users:441,errors:0
+rightscale->instnum:5,utils:26, 24
+rightscale->instnum:5,utils:19, 23
+rt:4.31,through:97.67,tt:0.36,num_interact:1465,Intrvl:15,num_users:461,errors:0
+rightscale->instnum:5,utils:31, 28
+rt:4.56,through:95.07,tt:0.34,num_interact:1426,Intrvl:15,num_users:444,errors:0
+rightscale->instnum:5,utils:37, 34
+rt:4.47,through:97.47,tt:0.34,num_interact:1462,Intrvl:15,num_users:464,errors:0
+rightscale->instnum:5,utils:23, 11
+rt:2.98,through:105.47,tt:0.33,num_interact:1616,Intrvl:15,num_users:332,errors:0
+rightscale->instnum:5,utils:22, 10
+rightscale->instnum:5,utils:18, 27
+rt:4.46,through:180.93,tt:0.36,num_interact:2714,Intrvl:15,num_users:608,errors:0
+rightscale->instnum:5,utils:30, 45
+rt:6.88,through:86.93,tt:0.33,num_interact:1306,Intrvl:15,num_users:618,errors:0
+rightscale->instnum:6,utils:39, 32
+rt:7.01,through:83.53,tt:0.36,num_interact:1253,Intrvl:15,num_users:553,errors:0
+rightscale->instnum:7,utils:30, 38
+rightscale->instnum:7,utils:30, 41
+rt:6.69,through:140.6,tt:0.37,num_interact:2109,Intrvl:15,num_users:628,errors:0
+rightscale->instnum:7,utils:37, 36
+rt:9.36,through:87.27,tt:0.36,num_interact:1426,Intrvl:15,num_users:937,errors:0
+rightscale->instnum:7,utils:37, 43
+rt:9.09,through:81.2,tt:0.33,num_interact:1330,Intrvl:15,num_users:599,errors:0
+rightscale->instnum:7,utils:36, 30
+rt:6.78,through:85.87,tt:0.34,num_interact:1315,Intrvl:15,num_users:590,errors:0
+rightscale->instnum:7,utils:27, 33
+rightscale->instnum:7,utils:29, 32
+rt:6.85,through:127.2,tt:0.35,num_interact:1921,Intrvl:15,num_users:654,errors:0
+rightscale->instnum:7,utils:28, 23
+rightscale->instnum:7,utils:37, 40
+rightscale->instnum:7,utils:68, 78
+rightscale->instnum:7,utils:72, 66
+rt:11.29,through:218.47,tt:0.36,num_interact:3277,Intrvl:15,num_users:946,errors:19
+rightscale->instnum:7,utils:57, 57
+rt:8.43,through:72.4,tt:0.34,num_interact:1086,Intrvl:15,num_users:562,errors:0
+rightscale->instnum:7,utils:60, 61
+rt:6.76,through:128,tt:0.34,num_interact:1920,Intrvl:15,num_users:634,errors:0
+rightscale->instnum:7,utils:67, 55
+rt:8.61,through:102.73,tt:0.35,num_interact:1541,Intrvl:15,num_users:778,errors:0
+rightscale->instnum:7,utils:54, 61
+rt:7.92,through:80.2,tt:0.36,num_interact:1203,Intrvl:15,num_users:618,errors:30
+rightscale->instnum:7,utils:53, 49
+rightscale->instnum:7,utils:50, 46
+rt:5.27,through:89.27,tt:0.36,num_interact:1339,Intrvl:15,num_users:479,errors:36
+rightscale->instnum:7,utils:56, 67
+rt:5.73,through:92.33,tt:0.35,num_interact:1385,Intrvl:15,num_users:526,errors:0
+rightscale->instnum:7,utils:59, 59
+rt:3.85,through:105.07,tt:0.34,num_interact:1576,Intrvl:15,num_users:387,errors:0
+rightscale->instnum:7,utils:68, 66
+rightscale->instnum:7,utils:69, 66
+rt:4.79,through:161.2,tt:0.37,num_interact:2418,Intrvl:15,num_users:656,errors:0
+rightscale->instnum:7,utils:67, 74
+rt:6.53,through:88.8,tt:0.34,num_interact:1332,Intrvl:15,num_users:488,errors:0
+rightscale->instnum:7,utils:64, 59
+rt:3.79,through:101.87,tt:0.36,num_interact:1530,Intrvl:15,num_users:393,errors:44
+rightscale->instnum:7,utils:59, 59
+rt:4.54,through:138.07,tt:0.35,num_interact:2071,Intrvl:15,num_users:618,errors:8
+rightscale->instnum:7,utils:64, 65
+rt:6.51,through:92.4,tt:0.35,num_interact:1386,Intrvl:15,num_users:562,errors:0
+rightscale->instnum:7,utils:68, 70
+rt:4.72,through:99.53,tt:0.37,num_interact:1546,Intrvl:15,num_users:506,errors:0
+rightscale->instnum:7,utils:68, 66
+rightscale->instnum:7,utils:69, 68
+rt:5.6,through:83.47,tt:0.35,num_interact:1797,Intrvl:15,num_users:508,errors:0
+rightscale->instnum:7,utils:71, 73
+rt:6.49,through:92.07,tt:0.36,num_interact:1381,Intrvl:15,num_users:740,errors:0
+rightscale->instnum:7,utils:71, 67
+rt:7.48,through:80.07,tt:0.35,num_interact:1201,Intrvl:15,num_users:665,errors:0
+rightscale->instnum:7,utils:69, 73
+rt:8.93,through:115.73,tt:0.37,num_interact:1815,Intrvl:15,num_users:783,errors:0
+rightscale->instnum:7,utils:73, 72
+rt:7.16,through:85.53,tt:0.35,num_interact:1283,Intrvl:15,num_users:571,errors:0
+rightscale->instnum:7,utils:72, 72
+rt:5.01,through:88.8,tt:0.34,num_interact:1332,Intrvl:15,num_users:429,errors:0
+rightscale->instnum:7,utils:71, 67
+rt:4.47,through:92.53,tt:0.34,num_interact:1388,Intrvl:15,num_users:433,errors:0
+rightscale->instnum:7,utils:65, 71
+rt:5.62,through:92.07,tt:0.37,num_interact:1381,Intrvl:15,num_users:599,errors:0
+rightscale->instnum:7,utils:70, 69
+rt:6.22,through:86.2,tt:0.35,num_interact:1293,Intrvl:15,num_users:543,errors:0
+rightscale->instnum:7,utils:73, 65
+rightscale->instnum:7,utils:72, 73
+rt:6.86,through:108.33,tt:0.35,num_interact:1625,Intrvl:15,num_users:693,errors:0
+rightscale->instnum:6,utils:68, 71
+rt:7.5,through:77.8,tt:0.36,num_interact:1167,Intrvl:15,num_users:682,errors:0
+rightscale->instnum:6,utils:63, 66
+rt:7.53,through:88.8,tt:0.34,num_interact:1332,Intrvl:15,num_users:600,errors:0
+rightscale->instnum:6,utils:65, 64
+rt:7.18,through:111.13,tt:0.36,num_interact:1753,Intrvl:15,num_users:673,errors:0
+rightscale->instnum:6,utils:66, 69
+rt:7.95,through:78.47,tt:0.34,num_interact:1177,Intrvl:15,num_users:749,errors:0
+rightscale->instnum:6,utils:64, 68
+rt:9.45,through:76.73,tt:0.36,num_interact:1151,Intrvl:15,num_users:710,errors:0
+rightscale->instnum:6,utils:67, 60
+rt:7.84,through:83.8,tt:0.36,num_interact:1257,Intrvl:15,num_users:712,errors:0
+rightscale->instnum:6,utils:62, 63
+rt:10.14,through:74.27,tt:0.34,num_interact:1114,Intrvl:15,num_users:862,errors:0
+rightscale->instnum:6,utils:65, 65
+rt:7.67,through:91.4,tt:0.36,num_interact:1371,Intrvl:15,num_users:562,errors:0
+rightscale->instnum:6,utils:66, 65
+rt:7.18,through:77.6,tt:0.36,num_interact:1164,Intrvl:15,num_users:673,errors:0
+rightscale->instnum:5,utils:64, 62
+rt:9.31,through:83.53,tt:0.36,num_interact:1253,Intrvl:15,num_users:710,errors:0
+rightscale->instnum:5,utils:65, 68
+rt:8.1,through:85.07,tt:0.33,num_interact:1276,Intrvl:15,num_users:665,errors:0
+rightscale->instnum:5,utils:68, 70
+rt:7.91,through:79,tt:0.37,num_interact:1185,Intrvl:15,num_users:721,errors:0
+rightscale->instnum:5,utils:60, 60
+rt:8.01,through:82.07,tt:0.33,num_interact:1231,Intrvl:15,num_users:628,errors:0
+rightscale->instnum:5,utils:58, 56
+rt:5.3,through:94.6,tt:0.35,num_interact:1419,Intrvl:15,num_users:506,errors:0
+rightscale->instnum:5,utils:62, 59
+rt:2.26,through:115.2,tt:0.34,num_interact:1852,Intrvl:15,num_users:263,errors:0
+rightscale->instnum:5,utils:55, 53
+rightscale->instnum:5,utils:56, 64
+rt:4.48,through:146.47,tt:0.37,num_interact:2197,Intrvl:15,num_users:637,errors:0
+rightscale->instnum:5,utils:65, 67
+rt:7.06,through:102,tt:0.37,num_interact:1530,Intrvl:15,num_users:674,errors:1
+rightscale->instnum:4,utils:63, 58
+rt:8.81,through:90.33,tt:0.36,num_interact:1355,Intrvl:15,num_users:740,errors:0
+rightscale->instnum:4,utils:62, 58
+rightscale->instnum:4,utils:62, 64
+rt:9.68,through:72.73,tt:0.36,num_interact:1091,Intrvl:15,num_users:852,errors:0
+rt:10.73,through:71.87,tt:0.35,num_interact:1078,Intrvl:15,num_users:796,errors:0
+rightscale->instnum:4,utils:60, 65
+rightscale->instnum:4,utils:61, 67
+rt:9.62,through:92.6,tt:0.33,num_interact:1393,Intrvl:15,num_users:824,errors:0
+rightscale->instnum:4,utils:64, 62
+rt:10.13,through:78.67,tt:0.37,num_interact:1180,Intrvl:15,num_users:771,errors:0
+rightscale->instnum:4,utils:56, 62
+rt:8.48,through:83,tt:0.36,num_interact:1245,Intrvl:15,num_users:628,errors:0
+rightscale->instnum:4,utils:61, 57
+rt:8.22,through:76.6,tt:0.35,num_interact:1329,Intrvl:15,num_users:768,errors:0
+rightscale->instnum:3,utils:68, 70
+rt:10.36,through:70.4,tt:0.39,num_interact:1056,Intrvl:15,num_users:918,errors:0
+rightscale->instnum:3,utils:67, 58
+rt:9.62,through:83.07,tt:0.34,num_interact:1246,Intrvl:15,num_users:607,errors:0
+rightscale->instnum:3,utils:49, 55
+rt:6.84,through:84.13,tt:0.33,num_interact:1306,Intrvl:15,num_users:590,errors:0
+rightscale->instnum:3,utils:49, 47
+rt:5.03,through:93.67,tt:0.36,num_interact:1405,Intrvl:15,num_users:478,errors:0
+rightscale->instnum:3,utils:50, 54
+rt:7.05,through:85.33,tt:0.38,num_interact:1280,Intrvl:15,num_users:749,errors:0
+rightscale->instnum:3,utils:51, 46
+rt:10.15,through:73,tt:0.34,num_interact:1095,Intrvl:15,num_users:731,errors:0
+rightscale->instnum:3,utils:61, 59
+rightscale->instnum:3,utils:56, 64
+rt:10.91,through:65.07,tt:0.35,num_interact:1481,Intrvl:15,num_users:829,errors:0
+rightscale->instnum:2,utils:59, 56
+rt:7.58,through:83.53,tt:0.34,num_interact:1253,Intrvl:15,num_users:600,errors:0
+rightscale->instnum:2,utils:48, 51
+rt:7.06,through:117.27,tt:0.34,num_interact:1759,Intrvl:15,num_users:712,errors:1
+rightscale->instnum:2,utils:48, 47
+rightscale->instnum:2,utils:55, 51
+rt:11.8,through:100.2,tt:0.37,num_interact:1503,Intrvl:15,num_users:984,errors:0
+rightscale->instnum:2,utils:57, 67
+rt:11.22,through:74.93,tt:0.35,num_interact:1124,Intrvl:15,num_users:778,errors:0
+rightscale->instnum:2,utils:46, 50
+rt:9.85,through:77.2,tt:0.36,num_interact:1158,Intrvl:15,num_users:802,errors:0
+rightscale->instnum:2,utils:49, 43
+rt:9.47,through:70.33,tt:0.37,num_interact:1055,Intrvl:15,num_users:700,errors:0
+rightscale->instnum:2,utils:46, 53
+rt:6.37,through:137.2,tt:0.35,num_interact:2058,Intrvl:15,num_users:384,errors:0
+
+rightscale->instnum:2,utils:70, 67
+rightscale->instnum:1,utils:56, 52
+rt:3.51,through:141.07,tt:0.37,num_interact:2116,Intrvl:15,num_users:444,errors:0
+rightscale->instnum:1,utils:22, 22
+rt:2.79,through:107,tt:0.36,num_interact:1605,Intrvl:15,num_users:281,errors:0
+rightscale->instnum:1,utils:11, 7
+rt:3.31,through:127.13,tt:0.36,num_interact:1907,Intrvl:15,num_users:422,errors:0
+rightscale->instnum:1,utils:14, 26
+rt:5.46,through:123.2,tt:0.35,num_interact:1848,Intrvl:15,num_users:525,errors:0
+rightscale->instnum:1,utils:25, 17
+rightscale->instnum:1,utils:42, 26
+rt:5.19,through:86.87,tt:0.35,num_interact:1303,Intrvl:15,num_users:543,errors:0
+rightscale->instnum:1,utils:24, 47
+rt:5.09,through:93.47,tt:0.35,num_interact:1402,Intrvl:15,num_users:431,errors:0
+rightscale->instnum:1,utils:33, 23
+rt:4.22,through:142.8,tt:0.36,num_interact:2142,Intrvl:15,num_users:459,errors:0
+rightscale->instnum:1,utils:25, 23
+rt:2.48,through:108.4,tt:0.34,num_interact:1626,Intrvl:15,num_users:262,errors:0
+rightscale->instnum:1,utils:18, 18
+rt:2.11,through:139.6,tt:0.35,num_interact:2094,Intrvl:15,num_users:281,errors:0
+rightscale->instnum:1,utils:6, 4
+rt:2.65,through:102.87,tt:0.37,num_interact:1543,Intrvl:15,num_users:328,errors:0
+rightscale->instnum:1,utils:11, 11
+rt:1.77,through:117.67,tt:0.35,num_interact:1821,Intrvl:15,num_users:236,errors:0
+rightscale->instnum:1,utils:7, 3
+rightscale->instnum:1,utils:7, 8
+rt:4.16,through:112.93,tt:0.36,num_interact:1754,Intrvl:15,num_users:478,errors:0
+rightscale->instnum:1,utils:26, 19
+rt:2.97,through:95.4,tt:0.34,num_interact:1431,Intrvl:15,num_users:295,errors:0
+rightscale->instnum:1,utils:10, 9
+rt:3.72,through:155.2,tt:0.35,num_interact:2328,Intrvl:15,num_users:525,errors:0
+rightscale->instnum:1,utils:11, 36
+rt:2.63,through:100.33,tt:0.34,num_interact:1505,Intrvl:15,num_users:223,errors:0
+rightscale->instnum:1,utils:21, 9
+rightscale->instnum:1,utils:22, 84
+rightscale->instnum:1,utils:99, 99

@@ -1,0 +1,765 @@
+rightscale->instnum:0,utils:98, 98
+rt:0.04,through:1.93,tt:0.47,num_interact:29,Intrvl:15,num_users:1,errors:0
+
+rightscale->instnum:0,utils:97, 98
+rt:0.91,through:78.53,tt:0.35,num_interact:1178,Intrvl:15,num_users:107,errors:0
+
+rightscale->instnum:0,utils:64, 74
+rt:2.13,through:83.07,tt:0.34,num_interact:1246,Intrvl:15,num_users:214,errors:0
+rightscale->instnum:0,utils:0, 15
+
+rt:3.3,through:83.13,tt:0.35,num_interact:1247,Intrvl:15,num_users:320,errors:0
+
+rightscale->instnum:0,utils:2, 2
+rightscale->instnum:0,utils:1, 6
+rt:4.67,through:81.53,tt:0.36,num_interact:1259,Intrvl:15,num_users:427,errors:0
+rightscale->instnum:0,utils:3, 10
+rt:6.29,through:76,tt:0.37,num_interact:1257,Intrvl:15,num_users:533,errors:0
+rightscale->instnum:1,utils:7, 11
+rt:7.43,through:71.93,tt:0.35,num_interact:1079,Intrvl:15,num_users:639,errors:0
+rightscale->instnum:1,utils:11, 18
+rt:8.33,through:88.87,tt:0.35,num_interact:1742,Intrvl:15,num_users:690,errors:0
+rightscale->instnum:1,utils:1, 3
+prop loopnum has no value
+rt:8.74,through:75.6,tt:0.34,num_interact:1134,Intrvl:15,num_users:669,errors:247
+rightscale->instnum:1,utils:21, 21
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+rt:4.99,through:87.2,tt:0.34,num_interact:1369,Intrvl:15,num_users:570,errors:15
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+rightscale->instnum:1,utils:0, 4
+rt:8.1,through:73.4,tt:0.35,num_interact:1101,Intrvl:15,num_users:516,errors:117
+rightscale->instnum:1,utils:0, 2
+rightscale->instnum:1,utils:0, 2
+rt:5.96,through:95.8,tt:0.34,num_interact:1437,Intrvl:15,num_users:531,errors:108
+rightscale->instnum:1,utils:4, 7
+rt:7.05,through:83.87,tt:0.37,num_interact:1258,Intrvl:15,num_users:643,errors:100
+rightscale->instnum:1,utils:2, 9
+rightscale->instnum:1,utils:24, 28
+rt:9.56,through:124.07,tt:0.37,num_interact:1861,Intrvl:15,num_users:859,errors:100
+rightscale->instnum:1,utils:16, 25
+rt:9.39,through:66.93,tt:0.35,num_interact:1004,Intrvl:15,num_users:623,errors:77
+rt:7.35,through:74.6,tt:0.36,num_interact:1119,Intrvl:15,num_users:630,errors:77
+rightscale->instnum:1,utils:7, 5
+rightscale->instnum:1,utils:5, 0
+rt:6.98,through:75.93,tt:0.35,num_interact:1139,Intrvl:15,num_users:561,errors:108
+rightscale->instnum:1,utils:1, 0
+rt:6.25,through:71.47,tt:0.35,num_interact:1072,Intrvl:15,num_users:577,errors:76
+rightscale->instnum:1,utils:11, 18
+rt:7.24,through:81.8,tt:0.35,num_interact:1227,Intrvl:15,num_users:548,errors:37
+rightscale->instnum:1,utils:23, 22
+rt:6.47,through:83,tt:0.34,num_interact:1245,Intrvl:15,num_users:555,errors:76
+rightscale->instnum:1,utils:0, 5
+rt:7.02,through:79.73,tt:0.35,num_interact:1196,Intrvl:15,num_users:623,errors:87
+rightscale->instnum:1,utils:16, 0
+rt:7.03,through:73.53,tt:0.34,num_interact:1103,Intrvl:15,num_users:577,errors:36
+rightscale->instnum:1,utils:22, 28
+rightscale->instnum:1,utils:25, 36
+rt:8.35,through:162.47,tt:0.37,num_interact:2437,Intrvl:15,num_users:682,errors:70
+rightscale->instnum:1,utils:20, 13
+rt:9.09,through:70.13,tt:0.34,num_interact:1052,Intrvl:15,num_users:682,errors:52
+rightscale->instnum:1,utils:17, 12
+rt:8.9,through:69.47,tt:0.36,num_interact:1042,Intrvl:15,num_users:645,errors:83
+rightscale->instnum:1,utils:1, 1
+rightscale->instnum:1,utils:19, 11
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+rt:9.69,through:131.53,tt:0.36,num_interact:1973,Intrvl:15,num_users:839,errors:1007
+rightscale->instnum:1,utils:49, 44
+rt:11.38,through:73.47,tt:0.34,num_interact:1102,Intrvl:15,num_users:787,errors:55
+rightscale->instnum:1,utils:33, 37
+rt:8.87,through:68.33,tt:0.34,num_interact:1025,Intrvl:15,num_users:675,errors:100
+rightscale->instnum:1,utils:30, 38
+rightscale->instnum:2,utils:40, 36
+rightscale->instnum:2,utils:52, 67
+rt:8.92,through:178.27,tt:0.34,num_interact:2674,Intrvl:15,num_users:833,errors:136
+rt:8.1,through:66.47,tt:0.37,num_interact:1246,Intrvl:15,num_users:649,errors:66
+rightscale->instnum:2,utils:31, 35
+rightscale->instnum:2,utils:40, 38
+prop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no value
+prop loopnum has no valueprop loopnum has no value
+rt:8.53,through:72.4,tt:0.35,num_interact:1086,Intrvl:15,num_users:839,errors:3373
+rightscale->instnum:2,utils:48, 52
+rt:11.03,through:67.6,tt:0.37,num_interact:1326,Intrvl:15,num_users:748,errors:66
+
+rightscale->instnum:2,utils:33, 33
+rt:9.61,through:68.07,tt:0.37,num_interact:1021,Intrvl:15,num_users:885,errors:78
+rightscale->instnum:2,utils:39, 41
+rt:11.39,through:70.27,tt:0.36,num_interact:1054,Intrvl:15,num_users:813,errors:49
+rightscale->instnum:2,utils:41, 47
+rightscale->instnum:2,utils:38, 38
+rightscale->instnum:2,utils:51, 55
+rt:12.65,through:140.93,tt:0.37,num_interact:2114,Intrvl:15,num_users:866,errors:135
+rightscale->instnum:2,utils:41, 35
+rt:10.89,through:52.4,tt:0.36,num_interact:786,Intrvl:15,num_users:997,errors:62
+rightscale->instnum:2,utils:48, 60
+rt:11.64,through:73.33,tt:0.34,num_interact:1100,Intrvl:15,num_users:682,errors:143
+rightscale->instnum:2,utils:39, 37
+rt:7.99,through:64.47,tt:0.34,num_interact:967,Intrvl:15,num_users:793,errors:81
+
+rightscale->instnum:2,utils:44, 39
+rt:10.08,through:74.53,tt:0.36,num_interact:1118,Intrvl:15,num_users:754,errors:85
+rt:9.88,through:67.13,tt:0.36,num_interact:1007,Intrvl:15,num_users:800,errors:89
+rightscale->instnum:2,utils:39, 40
+rightscale->instnum:2,utils:35, 41
+rt:10.64,through:71.13,tt:0.34,num_interact:1067,Intrvl:15,num_users:800,errors:88
+rightscale->instnum:2,utils:39, 37
+rt:8.15,through:71.47,tt:0.34,num_interact:1072,Intrvl:15,num_users:630,errors:94
+rightscale->instnum:2,utils:28, 39
+rt:7.58,through:85.2,tt:0.37,num_interact:1278,Intrvl:15,num_users:715,errors:105
+rightscale->instnum:2,utils:45, 60
+rt:9.3,through:78.13,tt:0.35,num_interact:1271,Intrvl:15,num_users:761,errors:109
+rightscale->instnum:2,utils:44, 32
+rt:5.55,through:83.27,tt:0.34,num_interact:1578,Intrvl:15,num_users:495,errors:219
+
+rightscale->instnum:2,utils:25, 30
+rightscale->instnum:1,utils:30, 34
+rt:5.32,through:134.73,tt:0.35,num_interact:2027,Intrvl:15,num_users:571,errors:104
+rightscale->instnum:1,utils:38, 30
+rt:5.45,through:86.47,tt:0.35,num_interact:1297,Intrvl:15,num_users:510,errors:80
+rightscale->instnum:1,utils:31, 22
+rt:4.37,through:92.27,tt:0.36,num_interact:1384,Intrvl:15,num_users:451,errors:166
+rightscale->instnum:1,utils:26, 28
+rt:3.38,through:93.8,tt:0.35,num_interact:1407,Intrvl:15,num_users:375,errors:214
+rightscale->instnum:1,utils:19, 23
+rt:2.97,through:101.33,tt:0.34,num_interact:1520,Intrvl:15,num_users:374,errors:179
+rightscale->instnum:1,utils:15, 11
+rt:4.01,through:110.53,tt:0.36,num_interact:1658,Intrvl:15,num_users:470,errors:163
+rightscale->instnum:1,utils:22, 19
+rt:3.47,through:92.53,tt:0.34,num_interact:1388,Intrvl:15,num_users:374,errors:256
+rightscale->instnum:1,utils:13, 26
+rt:2.58,through:102.27,tt:0.36,num_interact:1680,Intrvl:15,num_users:321,errors:257
+rightscale->instnum:1,utils:11, 16
+rt:2.43,through:103.67,tt:0.34,num_interact:1555,Intrvl:15,num_users:315,errors:252
+rightscale->instnum:1,utils:11, 18
+rt:2.23,through:109,tt:0.35,num_interact:1635,Intrvl:15,num_users:302,errors:74
+rightscale->instnum:1,utils:5, 12
+rt:1.9,through:105.53,tt:0.36,num_interact:1583,Intrvl:15,num_users:262,errors:256
+rightscale->instnum:1,utils:7, 20
+rt:3.05,through:95.8,tt:0.36,num_interact:1437,Intrvl:15,num_users:374,errors:143
+rightscale->instnum:1,utils:12, 21
+rt:2.3,through:100.8,tt:0.35,num_interact:1512,Intrvl:15,num_users:289,errors:251
+rightscale->instnum:1,utils:12, 11
+rt:1.76,through:109,tt:0.35,num_interact:1635,Intrvl:15,num_users:249,errors:324
+rightscale->instnum:1,utils:2, 3
+rt:1.68,through:112.8,tt:0.34,num_interact:1692,Intrvl:15,num_users:248,errors:242
+rightscale->instnum:1,utils:1, 0
+rightscale->instnum:1,utils:14, 15
+rt:2.98,through:173.53,tt:0.36,num_interact:2816,Intrvl:15,num_users:406,errors:270
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no valueprop loopnum has no value
+prop loopnum has no value
+prop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no value
+prop loopnum has no value
+rightscale->instnum:1,utils:42, 44
+rightscale->instnum:1,utils:55, 64
+prop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no valueprop loopnum has no valuert:5.97,through:39.67,tt:0.38,num_interact:595,Intrvl:15,num_users:256,errors:9104
+rt:2.96,through:119.33,tt:0.37,num_interact:1790,Intrvl:15,num_users:380,errors:300
+rightscale->instnum:1,utils:14, 21
+rt:3.2,through:91.8,tt:0.34,num_interact:1377,Intrvl:15,num_users:380,errors:250
+rightscale->instnum:1,utils:19, 33
+rightscale->instnum:1,utils:29, 5
+rt:3.15,through:96.73,tt:0.34,num_interact:1451,Intrvl:15,num_users:362,errors:342
+rightscale->instnum:1,utils:15, 13
+rt:1.88,through:101.47,tt:0.35,num_interact:1522,Intrvl:15,num_users:269,errors:389
+rightscale->instnum:1,utils:4, 10
+rt:2.5,through:102,tt:0.37,num_interact:1530,Intrvl:15,num_users:344,errors:275
+rightscale->instnum:1,utils:17, 25
+rt:2.81,through:173.93,tt:0.36,num_interact:2609,Intrvl:15,num_users:368,errors:174
+rightscale->instnum:2,utils:16, 36
+rt:2.57,through:95,tt:0.35,num_interact:1425,Intrvl:15,num_users:328,errors:364
+rightscale->instnum:2,utils:23, 19
+rightscale->instnum:2,utils:14, 17
+rt:3.83,through:106.47,tt:0.36,num_interact:1597,Intrvl:15,num_users:471,errors:215
+rightscale->instnum:2,utils:14, 17
+rt:2.03,through:100.6,tt:0.33,num_interact:1509,Intrvl:15,num_users:252,errors:476
+rightscale->instnum:2,utils:1, 6
+rt:2.71,through:135.53,tt:0.36,num_interact:2202,Intrvl:15,num_users:361,errors:276
+rightscale->instnum:2,utils:19, 21
+rt:2.1,through:101.47,tt:0.35,num_interact:1522,Intrvl:15,num_users:277,errors:387
+rightscale->instnum:2,utils:17, 22
+rt:2.06,through:96.33,tt:0.35,num_interact:1445,Intrvl:15,num_users:284,errors:373
+rightscale->instnum:2,utils:13, 16
+rt:2.1,through:101.93,tt:0.35,num_interact:1581,Intrvl:15,num_users:295,errors:275
+rt:2.65,through:106.33,tt:0.36,num_interact:1595,Intrvl:15,num_users:348,errors:230
+rightscale->instnum:2,utils:11, 22
+rightscale->instnum:2,utils:15, 23
+rt:2.17,through:102.07,tt:0.34,num_interact:1544,Intrvl:15,num_users:289,errors:385
+rt:2.76,through:91.07,tt:0.36,num_interact:1366,Intrvl:15,num_users:348,errors:344
+rightscale->instnum:2,utils:15, 16
+rightscale->instnum:2,utils:15, 14
+rt:1.51,through:110.2,tt:0.34,num_interact:1667,Intrvl:15,num_users:236,errors:427
+rightscale->instnum:2,utils:1, 1
+rightscale->instnum:2,utils:5, 9
+rt:1.89,through:167,tt:0.35,num_interact:2547,Intrvl:15,num_users:295,errors:433
+rightscale->instnum:2,utils:13, 11
+rt:3.02,through:145.07,tt:0.35,num_interact:2176,Intrvl:15,num_users:433,errors:130
+rightscale->instnum:2,utils:18, 42
+rt:2.78,through:99.47,tt:0.35,num_interact:1492,Intrvl:15,num_users:328,errors:183
+rightscale->instnum:2,utils:27, 15
+rightscale->instnum:2,utils:18, 24
+rt:3.09,through:135.27,tt:0.35,num_interact:2029,Intrvl:15,num_users:387,errors:136
+rightscale->instnum:2,utils:37, 41
+rt:4.05,through:85.07,tt:0.36,num_interact:1276,Intrvl:15,num_users:458,errors:105
+rightscale->instnum:2,utils:21, 8
+rt:2.24,through:97.8,tt:0.35,num_interact:1467,Intrvl:15,num_users:265,errors:409
+rt:1.57,through:101.6,tt:0.33,num_interact:1527,Intrvl:15,num_users:234,errors:799
+rightscale->instnum:2,utils:6, 2
+rightscale->instnum:3,utils:1, 0
+rightscale->instnum:3,utils:5, 6
+rt:2.66,through:222.27,tt:0.36,num_interact:3334,Intrvl:15,num_users:531,errors:403
+rightscale->instnum:3,utils:21, 26
+rt:3.23,through:93.87,tt:0.34,num_interact:1475,Intrvl:15,num_users:342,errors:324
+rightscale->instnum:3,utils:12, 15
+rt:2.79,through:112.47,tt:0.36,num_interact:1687,Intrvl:15,num_users:354,errors:200
+rightscale->instnum:3,utils:17, 31
+rt:2.1,through:101,tt:0.36,num_interact:1515,Intrvl:15,num_users:297,errors:358
+rightscale->instnum:3,utils:21, 2
+rt:2.4,through:107.13,tt:0.33,num_interact:1607,Intrvl:15,num_users:308,errors:337
+rightscale->instnum:3,utils:25, 40
+rt:2.65,through:124.53,tt:0.36,num_interact:1868,Intrvl:15,num_users:381,errors:157
+rightscale->instnum:3,utils:37, 40
+rightscale->instnum:3,utils:40, 41
+rt:1.86,through:115.33,tt:0.35,num_interact:1730,Intrvl:15,num_users:282,errors:177
+rt:1.65,through:115.93,tt:0.34,num_interact:1739,Intrvl:15,num_users:273,errors:182
+rightscale->instnum:3,utils:39, 34
+rightscale->instnum:3,utils:33, 38
+rt:1.81,through:110.8,tt:0.36,num_interact:1662,Intrvl:15,num_users:284,errors:168
+rightscale->instnum:3,utils:41, 49
+rt:2.13,through:155.2,tt:0.36,num_interact:2328,Intrvl:15,num_users:308,errors:388
+rightscale->instnum:3,utils:34, 36
+rt:2.28,through:94.8,tt:0.34,num_interact:1422,Intrvl:15,num_users:289,errors:191
+rightscale->instnum:3,utils:43, 44
+rt:1.64,through:101.67,tt:0.34,num_interact:1525,Intrvl:15,num_users:235,errors:588
+rightscale->instnum:3,utils:38, 36
+rightscale->instnum:3,utils:38, 37
+rt:2.25,through:128.53,tt:0.37,num_interact:1941,Intrvl:15,num_users:315,errors:273
+rightscale->instnum:3,utils:46, 38
+rt:2.69,through:90.67,tt:0.34,num_interact:1360,Intrvl:15,num_users:316,errors:362
+rightscale->instnum:3,utils:39, 40
+rt:2.51,through:94.73,tt:0.33,num_interact:1631,Intrvl:15,num_users:308,errors:258
+rightscale->instnum:3,utils:41, 30
+rt:1.67,through:100.8,tt:0.33,num_interact:1540,Intrvl:15,num_users:243,errors:471
+rightscale->instnum:3,utils:38, 36
+rt:1.98,through:126.4,tt:0.36,num_interact:1896,Intrvl:15,num_users:283,errors:403
+rightscale->instnum:3,utils:39, 38
+rt:2.98,through:116.53,tt:0.34,num_interact:1748,Intrvl:15,num_users:374,errors:205
+rightscale->instnum:3,utils:44, 46
+rt:2.18,through:105.8,tt:0.34,num_interact:1587,Intrvl:15,num_users:289,errors:118
+rightscale->instnum:3,utils:52, 48
+rt:2.76,through:107.07,tt:0.36,num_interact:1606,Intrvl:15,num_users:377,errors:341
+prop loopnum has no value
+prop loopnum has no value
+prop loopnum has no value
+rightscale->instnum:3,utils:48, 49
+prop loopnum has no value
+prop loopnum has no value
+rt:2.14,through:102.07,tt:0.34,num_interact:1531,Intrvl:15,num_users:277,errors:181
+rightscale->instnum:3,utils:46, 36
+rightscale->instnum:3,utils:38, 50
+rt:3.91,through:103.4,tt:0.36,num_interact:1551,Intrvl:15,num_users:439,errors:265
+rightscale->instnum:3,utils:42, 48
+rt:4.54,through:86.4,tt:0.36,num_interact:1319,Intrvl:15,num_users:466,errors:112
+rt:4.61,through:78.87,tt:0.35,num_interact:1183,Intrvl:15,num_users:477,errors:144
+rightscale->instnum:3,utils:46, 62
+rightscale->instnum:3,utils:48, 37
+rt:1.98,through:119.73,tt:0.34,num_interact:1796,Intrvl:15,num_users:224,errors:358
+rightscale->instnum:3,utils:42, 32
+rt:1.71,through:108.8,tt:0.37,num_interact:1685,Intrvl:15,num_users:269,errors:314
+rightscale->instnum:2,utils:35, 37
+rt:2.34,through:106.6,tt:0.35,num_interact:1599,Intrvl:15,num_users:315,errors:320
+rightscale->instnum:2,utils:24, 39
+rt:2.03,through:110.33,tt:0.34,num_interact:1655,Intrvl:15,num_users:269,errors:250
+rightscale->instnum:2,utils:38, 46
+rt:2.41,through:103.93,tt:0.35,num_interact:1563,Intrvl:15,num_users:308,errors:343
+rightscale->instnum:2,utils:37, 37
+rt:2.27,through:97.93,tt:0.35,num_interact:1469,Intrvl:15,num_users:294,errors:245
+rightscale->instnum:2,utils:33, 50
+rightscale->instnum:2,utils:42, 36
+rt:3.21,through:156,tt:0.37,num_interact:2340,Intrvl:15,num_users:445,errors:129
+rightscale->instnum:2,utils:55, 51
+rt:4.39,through:91.07,tt:0.35,num_interact:1429,Intrvl:15,num_users:438,errors:171
+rightscale->instnum:2,utils:49, 28
+rt:2.12,through:105.2,tt:0.35,num_interact:1578,Intrvl:15,num_users:269,errors:453
+rightscale->instnum:2,utils:29, 42
+rt:2.98,through:94.07,tt:0.37,num_interact:1411,Intrvl:15,num_users:380,errors:200
+rightscale->instnum:2,utils:35, 32
+rt:2.45,through:102.07,tt:0.36,num_interact:1618,Intrvl:15,num_users:315,errors:128
+rightscale->instnum:2,utils:39, 46
+rt:2.33,through:104.73,tt:0.34,num_interact:1659,Intrvl:15,num_users:303,errors:184
+rightscale->instnum:2,utils:37, 37
+rt:1.43,through:114.6,tt:0.35,num_interact:1719,Intrvl:15,num_users:230,errors:238
+rightscale->instnum:2,utils:37, 44
+rt:2.62,through:140.27,tt:0.37,num_interact:2104,Intrvl:15,num_users:374,errors:277
+Terminating EBs...
+EB TPCW Broswing Mix EB #106commiting suicide!
+EB TPCW Broswing Mix EB #123commiting suicide!
+EB TPCW Broswing Mix EB #166commiting suicide!
+EB TPCW Broswing Mix EB #5143commiting suicide!
+EB TPCW Broswing Mix EB #4692commiting suicide!
+EB TPCW Broswing Mix EB #92commiting suicide!
+EB TPCW Broswing Mix EB #174commiting suicide!
+EB TPCW Broswing Mix EB #107commiting suicide!
+EB TPCW Broswing Mix EB #5098commiting suicide!
+EB TPCW Broswing Mix EB #98commiting suicide!
+EB TPCW Broswing Mix EB #5142commiting suicide!
+EB TPCW Broswing Mix EB #53commiting suicide!
+EB TPCW Broswing Mix EB #24commiting suicide!
+EB TPCW Broswing Mix EB #68commiting suicide!
+EB TPCW Broswing Mix EB #219commiting suicide!
+EB TPCW Broswing Mix EB #206commiting suicide!
+EB TPCW Broswing Mix EB #5221commiting suicide!
+EB TPCW Broswing Mix EB #5192commiting suicide!
+EB TPCW Broswing Mix EB #218commiting suicide!
+EB TPCW Broswing Mix EB #5128commiting suicide!
+
+EB TPCW Broswing Mix EB #5129commiting suicide!
+EB TPCW Broswing Mix EB #52commiting suicide!
+EB TPCW Broswing Mix EB #5094commiting suicide!
+EB TPCW Broswing Mix EB #15commiting suicide!
+EB TPCW Broswing Mix EB #5169commiting suicide!
+EB TPCW Broswing Mix EB #5100commiting suicide!
+EB TPCW Broswing Mix EB #5103commiting suicide!
+EB TPCW Broswing Mix EB #5160commiting suicide!
+EB TPCW Broswing Mix EB #5085commiting suicide!
+EB TPCW Broswing Mix EB #50commiting suicide!
+EB TPCW Broswing Mix EB #5213commiting suicide!
+EB TPCW Broswing Mix EB #5144commiting suicide!
+EB TPCW Broswing Mix EB #134commiting suicide!
+EB TPCW Broswing Mix EB #5210commiting suicide!
+EB TPCW Broswing Mix EB #5092commiting suicide!
+EB TPCW Broswing Mix EB #83commiting suicide!
+EB TPCW Broswing Mix EB #5095commiting suicide!
+EB TPCW Broswing Mix EB #5097commiting suicide!
+
+EB TPCW Broswing Mix EB #5162commiting suicide!
+EB TPCW Broswing Mix EB #93commiting suicide!
+EB TPCW Broswing Mix EB #142commiting suicide!
+EB TPCW Broswing Mix EB #5091commiting suicide!
+EB TPCW Broswing Mix EB #235commiting suicide!
+EB TPCW Broswing Mix EB #18commiting suicide!
+EB TPCW Broswing Mix EB #189commiting suicide!
+EB TPCW Broswing Mix EB #5133commiting suicide!
+EB TPCW Broswing Mix EB #145commiting suicide!
+EB TPCW Broswing Mix EB #5152commiting suicide!
+EB TPCW Broswing Mix EB #138commiting suicide!
+EB TPCW Broswing Mix EB #130commiting suicide!
+
+EB TPCW Broswing Mix EB #5126commiting suicide!
+
+EB TPCW Broswing Mix EB #169commiting suicide!
+EB TPCW Broswing Mix EB #5106commiting suicide!
+
+EB TPCW Broswing Mix EB #5093commiting suicide!
+EB TPCW Broswing Mix EB #5205commiting suicide!
+EB TPCW Broswing Mix EB #176commiting suicide!
+EB TPCW Broswing Mix EB #5190commiting suicide!
+EB TPCW Broswing Mix EB #5170commiting suicide!
+EB TPCW Broswing Mix EB #155commiting suicide!
+EB TPCW Broswing Mix EB #5187commiting suicide!
+EB TPCW Broswing Mix EB #5087commiting suicide!
+EB TPCW Broswing Mix EB #5172commiting suicide!
+EB TPCW Broswing Mix EB #5223commiting suicide!
+EB TPCW Broswing Mix EB #5130commiting suicide!
+EB TPCW Broswing Mix EB #128commiting suicide!
+
+EB TPCW Broswing Mix EB #203commiting suicide!
+
+EB TPCW Broswing Mix EB #66commiting suicide!
+EB TPCW Broswing Mix EB #23commiting suicide!
+EB TPCW Broswing Mix EB #5159commiting suicide!
+EB TPCW Broswing Mix EB #222commiting suicide!
+EB TPCW Broswing Mix EB #5225commiting suicide!
+EB TPCW Broswing Mix EB #220commiting suicide!
+EB TPCW Broswing Mix EB #122commiting suicide!
+EB TPCW Broswing Mix EB #213commiting suicide!
+EB TPCW Broswing Mix EB #5147commiting suicide!
+
+EB TPCW Broswing Mix EB #77commiting suicide!
+EB TPCW Broswing Mix EB #160commiting suicide!
+EB TPCW Broswing Mix EB #149commiting suicide!
+
+EB TPCW Broswing Mix EB #119commiting suicide!
+EB TPCW Broswing Mix EB #158commiting suicide!
+EB TPCW Broswing Mix EB #5167commiting suicide!
+EB TPCW Broswing Mix EB #8commiting suicide!
+
+EB TPCW Broswing Mix EB #5132commiting suicide!
+
+EB TPCW Broswing Mix EB #159commiting suicide!
+
+EB TPCW Broswing Mix EB #3763commiting suicide!
+EB TPCW Broswing Mix EB #5194commiting suicide!
+EB TPCW Broswing Mix EB #5123commiting suicide!
+EB TPCW Broswing Mix EB #5084commiting suicide!
+EB TPCW Broswing Mix EB #4694commiting suicide!
+EB TPCW Broswing Mix EB #233commiting suicide!
+EB TPCW Broswing Mix EB #5201commiting suicide!
+EB TPCW Broswing Mix EB #5141commiting suicide!
+EB TPCW Broswing Mix EB #5204commiting suicide!
+EB TPCW Broswing Mix EB #89commiting suicide!
+EB TPCW Broswing Mix EB #5148commiting suicide!
+EB TPCW Broswing Mix EB #5151commiting suicide!
+EB TPCW Broswing Mix EB #5138commiting suicide!
+
+EB TPCW Broswing Mix EB #14commiting suicide!
+EB TPCW Broswing Mix EB #191commiting suicide!
+EB TPCW Broswing Mix EB #5113commiting suicide!
+EB TPCW Broswing Mix EB #5175commiting suicide!
+EB TPCW Broswing Mix EB #5149commiting suicide!
+EB TPCW Broswing Mix EB #121commiting suicide!
+EB TPCW Broswing Mix EB #139commiting suicide!
+
+EB TPCW Broswing Mix EB #131commiting suicide!
+
+EB TPCW Broswing Mix EB #76commiting suicide!
+
+EB TPCW Broswing Mix EB #5086commiting suicide!
+
+EB TPCW Broswing Mix EB #133commiting suicide!
+EB TPCW Broswing Mix EB #224commiting suicide!
+EB TPCW Broswing Mix EB #208commiting suicide!
+EB TPCW Broswing Mix EB #5195commiting suicide!
+EB TPCW Broswing Mix EB #5188commiting suicide!
+EB TPCW Broswing Mix EB #5114commiting suicide!
+EB TPCW Broswing Mix EB #5206commiting suicide!
+EB TPCW Broswing Mix EB #7commiting suicide!
+EB TPCW Broswing Mix EB #143commiting suicide!
+EB TPCW Broswing Mix EB #199commiting suicide!
+EB TPCW Broswing Mix EB #5122commiting suicide!
+EB TPCW Broswing Mix EB #12commiting suicide!
+EB TPCW Broswing Mix EB #97commiting suicide!
+EB TPCW Broswing Mix EB #5161commiting suicide!
+EB TPCW Broswing Mix EB #215commiting suicide!
+EB TPCW Broswing Mix EB #4691commiting suicide!
+EB TPCW Broswing Mix EB #111commiting suicide!
+EB TPCW Broswing Mix EB #217commiting suicide!
+
+EB TPCW Broswing Mix EB #61commiting suicide!
+EB TPCW Broswing Mix EB #5140commiting suicide!
+
+EB TPCW Broswing Mix EB #5177commiting suicide!
+
+EB TPCW Broswing Mix EB #129commiting suicide!
+EB TPCW Broswing Mix EB #209commiting suicide!
+
+EB TPCW Broswing Mix EB #19commiting suicide!
+
+EB TPCW Broswing Mix EB #5107commiting suicide!
+
+EB TPCW Broswing Mix EB #5117commiting suicide!
+EB TPCW Broswing Mix EB #5102commiting suicide!
+
+EB TPCW Broswing Mix EB #127commiting suicide!
+EB TPCW Broswing Mix EB #37commiting suicide!
+EB TPCW Broswing Mix EB #5214commiting suicide!
+EB TPCW Broswing Mix EB #5125commiting suicide!
+EB TPCW Broswing Mix EB #200commiting suicide!
+EB TPCW Broswing Mix EB #5191commiting suicide!
+EB TPCW Broswing Mix EB #22commiting suicide!
+EB TPCW Broswing Mix EB #69commiting suicide!
+EB TPCW Broswing Mix EB #5089commiting suicide!
+EB TPCW Broswing Mix EB #5111commiting suicide!
+EB TPCW Broswing Mix EB #5153commiting suicide!
+EB TPCW Broswing Mix EB #5212commiting suicide!
+EB TPCW Broswing Mix EB #5182commiting suicide!
+EB TPCW Broswing Mix EB #5164commiting suicide!
+
+EB TPCW Broswing Mix EB #116commiting suicide!
+EB TPCW Broswing Mix EB #5203commiting suicide!
+EB TPCW Broswing Mix EB #5173commiting suicide!
+EB TPCW Broswing Mix EB #5211commiting suicide!
+EB TPCW Broswing Mix EB #48commiting suicide!
+EB TPCW Broswing Mix EB #44commiting suicide!
+EB TPCW Broswing Mix EB #5197commiting suicide!
+EB TPCW Broswing Mix EB #5136commiting suicide!
+EB TPCW Broswing Mix EB #72commiting suicide!
+EB TPCW Broswing Mix EB #5215commiting suicide!
+EB TPCW Broswing Mix EB #5154commiting suicide!
+EB TPCW Broswing Mix EB #5166commiting suicide!
+EB TPCW Broswing Mix EB #5155commiting suicide!
+EB TPCW Broswing Mix EB #101commiting suicide!
+
+EB TPCW Broswing Mix EB #120commiting suicide!
+EB TPCW Broswing Mix EB #5099commiting suicide!
+
+EB TPCW Broswing Mix EB #94commiting suicide!
+rightscale->instnum:2,utils:42, 52
+EB TPCW Broswing Mix EB #39commiting suicide!
+EB TPCW Broswing Mix EB #5158commiting suicide!
+
+EB TPCW Broswing Mix EB #26commiting suicide!
+EB TPCW Broswing Mix EB #5209commiting suicide!
+EB TPCW Broswing Mix EB #126commiting suicide!
+EB TPCW Broswing Mix EB #99commiting suicide!
+EB TPCW Broswing Mix EB #212commiting suicide!
+EB TPCW Broswing Mix EB #5189commiting suicide!
+EB TPCW Broswing Mix EB #5145commiting suicide!
+EB TPCW Broswing Mix EB #211commiting suicide!
+EB TPCW Broswing Mix EB #193commiting suicide!
+EB TPCW Broswing Mix EB #58commiting suicide!
+EB TPCW Broswing Mix EB #5112commiting suicide!
+EB TPCW Broswing Mix EB #63commiting suicide!
+EB TPCW Broswing Mix EB #28commiting suicide!
+EB TPCW Broswing Mix EB #183commiting suicide!
+EB TPCW Broswing Mix EB #114commiting suicide!
+EB TPCW Broswing Mix EB #17commiting suicide!
+EB TPCW Broswing Mix EB #146commiting suicide!
+EB TPCW Broswing Mix EB #5219commiting suicide!
+EB TPCW Broswing Mix EB #5193commiting suicide!
+EB TPCW Broswing Mix EB #5218commiting suicide!
+EB TPCW Broswing Mix EB #161commiting suicide!
+EB TPCW Broswing Mix EB #5184commiting suicide!
+EB TPCW Broswing Mix EB #21commiting suicide!
+EB TPCW Broswing Mix EB #132commiting suicide!
+EB TPCW Broswing Mix EB #5200commiting suicide!
+EB TPCW Broswing Mix EB #228commiting suicide!
+EB TPCW Broswing Mix EB #4191commiting suicide!
+EB TPCW Broswing Mix EB #201commiting suicide!
+EB TPCW Broswing Mix EB #125commiting suicide!
+EB TPCW Broswing Mix EB #95commiting suicide!
+EB TPCW Broswing Mix EB #167commiting suicide!
+EB TPCW Broswing Mix EB #84commiting suicide!
+EB TPCW Broswing Mix EB #5135commiting suicide!
+EB TPCW Broswing Mix EB #67commiting suicide!
+EB TPCW Broswing Mix EB #4695commiting suicide!
+EB TPCW Broswing Mix EB #178commiting suicide!
+EB TPCW Broswing Mix EB #184commiting suicide!
+EB TPCW Broswing Mix EB #175commiting suicide!
+EB TPCW Broswing Mix EB #42commiting suicide!
+EB TPCW Broswing Mix EB #5163commiting suicide!
+EB TPCW Broswing Mix EB #5109commiting suicide!
+EB TPCW Broswing Mix EB #102commiting suicide!
+EB TPCW Broswing Mix EB #5116commiting suicide!
+EB TPCW Broswing Mix EB #5183commiting suicide!
+EB TPCW Broswing Mix EB #177commiting suicide!
+EB TPCW Broswing Mix EB #195commiting suicide!
+EB TPCW Broswing Mix EB #5150commiting suicide!
+EB TPCW Broswing Mix EB #71commiting suicide!
+EB TPCW Broswing Mix EB #4193commiting suicide!
+EB TPCW Broswing Mix EB #5186commiting suicide!
+EB TPCW Broswing Mix EB #5157commiting suicide!
+EB TPCW Broswing Mix EB #78commiting suicide!
+EB TPCW Broswing Mix EB #5165commiting suicide!
+EB TPCW Broswing Mix EB #27commiting suicide!
+EB TPCW Broswing Mix EB #5124commiting suicide!
+EB TPCW Broswing Mix EB #194commiting suicide!
+EB TPCW Broswing Mix EB #64commiting suicide!
+EB TPCW Broswing Mix EB #91commiting suicide!
+EB TPCW Broswing Mix EB #229commiting suicide!
+EB TPCW Broswing Mix EB #5196commiting suicide!
+EB TPCW Broswing Mix EB #182commiting suicide!
+EB TPCW Broswing Mix EB #56commiting suicide!
+EB TPCW Broswing Mix EB #137commiting suicide!
+EB TPCW Broswing Mix EB #4696commiting suicide!
+EB TPCW Broswing Mix EB #190commiting suicide!
+EB TPCW Broswing Mix EB #81commiting suicide!
+EB TPCW Broswing Mix EB #124commiting suicide!
+EB TPCW Broswing Mix EB #187commiting suicide!
+EB TPCW Broswing Mix EB #115commiting suicide!
+EB TPCW Broswing Mix EB #35commiting suicide!
+EB TPCW Broswing Mix EB #144commiting suicide!
+EB TPCW Broswing Mix EB #156commiting suicide!
+EB TPCW Broswing Mix EB #100commiting suicide!
+EB TPCW Broswing Mix EB #110commiting suicide!
+EB TPCW Broswing Mix EB #5119commiting suicide!
+EB TPCW Broswing Mix EB #5088commiting suicide!
+EB TPCW Broswing Mix EB #79commiting suicide!
+EB TPCW Broswing Mix EB #5146commiting suicide!
+EB TPCW Broswing Mix EB #171commiting suicide!
+EB TPCW Broswing Mix EB #5105commiting suicide!
+EB TPCW Broswing Mix EB #5185commiting suicide!
+EB TPCW Broswing Mix EB #5139commiting suicide!
+EB TPCW Broswing Mix EB #5083commiting suicide!
+EB TPCW Broswing Mix EB #5108commiting suicide!
+EB TPCW Broswing Mix EB #154commiting suicide!
+EB TPCW Broswing Mix EB #226commiting suicide!
+EB TPCW Broswing Mix EB #5217commiting suicide!
+EB TPCW Broswing Mix EB #4693commiting suicide!
+EB TPCW Broswing Mix EB #103commiting suicide!
+EB TPCW Broswing Mix EB #5208commiting suicide!
+EB TPCW Broswing Mix EB #5224commiting suicide!
+EB TPCW Broswing Mix EB #32commiting suicide!
+EB TPCW Broswing Mix EB #108commiting suicide!
+EB TPCW Broswing Mix EB #150commiting suicide!
+EB TPCW Broswing Mix EB #5110commiting suicide!
+EB TPCW Broswing Mix EB #46commiting suicide!
+EB TPCW Broswing Mix EB #96commiting suicide!
+EB TPCW Broswing Mix EB #5222commiting suicide!
+EB TPCW Broswing Mix EB #5174commiting suicide!
+EB TPCW Broswing Mix EB #185commiting suicide!
+EB TPCW Broswing Mix EB #221commiting suicide!
+EB TPCW Broswing Mix EB #157commiting suicide!
+EB TPCW Broswing Mix EB #5137commiting suicide!
+EB TPCW Broswing Mix EB #147commiting suicide!
+EB TPCW Broswing Mix EB #16commiting suicide!
+EB TPCW Broswing Mix EB #5120commiting suicide!
+EB TPCW Broswing Mix EB #5178commiting suicide!
+EB TPCW Broswing Mix EB #5226commiting suicide!
+EB TPCW Broswing Mix EB #70commiting suicide!
+EB TPCW Broswing Mix EB #5181commiting suicide!
+EB TPCW Broswing Mix EB #5202commiting suicide!
+EB TPCW Broswing Mix EB #54commiting suicide!
+EB TPCW Broswing Mix EB #113commiting suicide!
+EB TPCW Broswing Mix EB #57commiting suicide!
+EB TPCW Broswing Mix EB #5168commiting suicide!
+EB TPCW Broswing Mix EB #59commiting suicide!
+EB TPCW Broswing Mix EB #55commiting suicide!
+EB TPCW Broswing Mix EB #5115commiting suicide!
+EB TPCW Broswing Mix EB #164commiting suicide!
+EB TPCW Broswing Mix EB #47commiting suicide!
+EB TPCW Broswing Mix EB #5216commiting suicide!
+EB TPCW Broswing Mix EB #5198commiting suicide!
+EB TPCW Broswing Mix EB #5220commiting suicide!
+EB TPCW Broswing Mix EB #105commiting suicide!
+EB TPCW Broswing Mix EB #180commiting suicide!
+EB TPCW Broswing Mix EB #162commiting suicide!
+EB TPCW Broswing Mix EB #196commiting suicide!
+EB TPCW Broswing Mix EB #5179commiting suicide!
+EB TPCW Broswing Mix EB #5176commiting suicide!
+EB TPCW Broswing Mix EB #51commiting suicide!
+EB TPCW Broswing Mix EB #5118commiting suicide!
+EB TPCW Broswing Mix EB #38commiting suicide!
+EB TPCW Broswing Mix EB #5121commiting suicide!
+EB TPCW Broswing Mix EB #197commiting suicide!
+EB TPCW Broswing Mix EB #172commiting suicide!
+EB TPCW Broswing Mix EB #4192commiting suicide!
+EB TPCW Broswing Mix EB #30commiting suicide!
+EB TPCW Broswing Mix EB #5127commiting suicide!
+EB TPCW Broswing Mix EB #234commiting suicide!
+EB TPCW Broswing Mix EB #5101commiting suicide!
+EB TPCW Broswing Mix EB #40commiting suicide!
+EB TPCW Broswing Mix EB #186commiting suicide!
+EB TPCW Broswing Mix EB #118commiting suicide!
+EB TPCW Broswing Mix EB #5131commiting suicide!
+EB TPCW Broswing Mix EB #5090commiting suicide!
+EB TPCW Broswing Mix EB #163commiting suicide!
+EB TPCW Broswing Mix EB #225commiting suicide!
+EB TPCW Broswing Mix EB #168commiting suicide!
+EB TPCW Broswing Mix EB #29commiting suicide!
+EB TPCW Broswing Mix EB #5156commiting suicide!
+EB TPCW Broswing Mix EB #198commiting suicide!
+EB TPCW Broswing Mix EB #5207commiting suicide!
+EB TPCW Broswing Mix EB #5171commiting suicide!
+EB TPCW Broswing Mix EB #5096commiting suicide!
+EB TPCW Broswing Mix EB #5104commiting suicide!
+EB TPCW Broswing Mix EB #152commiting suicide!
+EB TPCW Broswing Mix EB #5180commiting suicide!
+EB TPCW Broswing Mix EB #140commiting suicide!
+EB TPCW Broswing Mix EB #117commiting suicide!
+EB TPCW Broswing Mix EB #5134commiting suicide!
+EB TPCW Broswing Mix EB #41commiting suicide!
+EB TPCW Broswing Mix EB #230commiting suicide!
+EB TPCW Broswing Mix EB #5199commiting suicide!
+EB TPCW Broswing Mix EB #207commiting suicide!
+EB TPCW Broswing Mix EB #74commiting suicide!
+EB TPCW Broswing Mix EB #223commiting suicide!
+EB TPCW Broswing Mix EB #82commiting suicide!
+EB TPCW Broswing Mix EB #60commiting suicide!
+EB TPCW Broswing Mix EB #112commiting suicide!
+EBs finished.
+Really finishing RBE!.
+rightscale->instnum:2,utils:62, 98
+rightscale->instnum:2,utils:92, 99
+rightscale->instnum:2,utils:98, 99
+rightscale->instnum:2,utils:98, 99
+rightscale->instnum:2,utils:97, 99
+rightscale->instnum:2,utils:98, 98
+rightscale->instnum:2,utils:99, 99
+rightscale->instnum:2,utils:98, 99
+rightscale->instnum:2,utils:98, 99
+rightscale->instnum:2,utils:98, 99
+rightscale->instnum:1,utils:98, 96
+rightscale->instnum:1,utils:95, 99
+rightscale->instnum:1,utils:99, 99
+rightscale->instnum:1,utils:99, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:99, 99
+rightscale->instnum:1,utils:97, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:99, 98
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:99, 99
+rightscale->instnum:1,utils:99, 98
+rightscale->instnum:1,utils:99, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:99, 97
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 98
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 98
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:99, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:99, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 98
+rightscale->instnum:1,utils:99, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:97, 98
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 98
+rightscale->instnum:1,utils:98, 99
+rightscale->instnum:1,utils:98, 98
+rightscale->instnum:1,utils:98, 98
+^C./test2.rb:636:in `join': Interrupt
+	from ./test2.rb:636:in `monitor'
+	from ./test2.rb:702
+
+~/...test/rightscale$ 

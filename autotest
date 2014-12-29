@@ -1,0 +1,4 @@
+autobench --single_host --host1 www.xxxxx.com --uri1 /crapy/TestDBServlet --quiet     \
+          --low_rate 900 --high_rate 1200 --rate_step 20 --num_call 20 \
+          --const_test_time 12 --timeout 10
+

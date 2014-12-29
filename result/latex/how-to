@@ -1,0 +1,1 @@
+cat report.template | sed -e 's/@@casenum@@/1/'| sed -e 's/@@workload@@/A/'

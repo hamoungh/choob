@@ -1,0 +1,9 @@
+A new RightScale API call has been added to retrieve raw sketchy (monitoring) data.  (gr-2819w)
+
+URL: GET /api/acct/1/servers/000/get_sketchy_data
+ See the RightScale API Reference section, Servers for more information.
+
+New API Call for listing server array instances
+A new RightScale API call has been added to list all non-terminated instances in a server array.  (gr-4314w)
+
+URL: GET /api/acct/1/server_arrays/000/instances

@@ -1,0 +1,605 @@
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 503 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"503", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs_subject", "alert_specs_subject%5Balert_spec_href%5D=https%3A%2F%2Fmy.rightscale.com%2Fapi%2Facct%2F26306%2Falert_specs%2F561020&api_version=1.0&alert_specs_subject%5Bsubject_type%5D=ServerTemplate&alert_specs_subject%5Bsubject_href%5D=https%3A%2F%2Fmy.rightscale.com%2Fapi%2Facct%2F26306%2Fec2_server_templates%2F79419&x_api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"325", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 404 NotFound | application/xml 76 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", "alert_spec%5Bduration%5D=1&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=grow&api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=12&x_api_version=1.0&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=if-cpu-low&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"387", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs_subject", "alert_specs_subject%5Balert_spec_href%5D=https%3A%2F%2Fmy.rightscale.com%2Fapi%2Facct%2F26306%2Falert_specs%2F561021&api_version=1.0&alert_specs_subject%5Bsubject_type%5D=ServerTemplate&alert_specs_subject%5Bsubject_href%5D=https%3A%2F%2Fmy.rightscale.com%2Fapi%2Facct%2F26306%2Fec2_server_templates%2F79419&x_api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"325", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 404 NotFound | application/xml 76 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", "alert_spec%5Bduration%5D=1&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=grow&api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=12&x_api_version=1.0&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=if-cpu-low&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"387", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_spec_subjects", "alert_specs_subject%5Balert_spec_href%5D=https%3A%2F%2Fmy.rightscale.com%2Fapi%2Facct%2F26306%2Falert_specs%2F561022&api_version=1.0&alert_specs_subject%5Bsubject_type%5D=ServerTemplate&alert_specs_subject%5Bsubject_href%5D=https%3A%2F%2Fmy.rightscale.com%2Fapi%2Facct%2F26306%2Fec2_server_templates%2F79419&x_api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"325", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 500 InternalServerError | text/html 14 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", "alert_spec%5Bduration%5D=1&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=grow&api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=12&x_api_version=1.0&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=if-cpu-low-low&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_spec_subjects", "alert_specs_subject%5Balert_spec_href%5D=https%3A%2F%2Fmy.rightscale.com%2Fapi%2Facct%2F26306%2Falert_specs%2F561023&api_version=1.0&alert_specs_subject%5Bsubject_type%5D=ServerTemplate&alert_specs_subject%5Bsubject_href%5D=https%3A%2F%2Fmy.rightscale.com%2Fapi%2Facct%2F26306%2Fec2_server_templates%2F79419&x_api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"325", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 500 InternalServerError | text/html 14 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 548 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"548", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 500 InternalServerError | text/html 14 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 779 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/842402", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 724 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 528 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"528", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 548 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"548", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 500 InternalServerError | text/html 14 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 548 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"548", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 500 InternalServerError | text/html 14 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 548 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"548", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 500 InternalServerError | text/html 14 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 544 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"544", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 544 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"544", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 422 ClientError | application/xml 97 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 548 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"548", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/alert_specs", 548 byte(s) length, "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"548", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 422 ClientError | application/xml 97 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/alert_specs?filter=name=grow-when-busy", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 4639 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 779 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/842401/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 67 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 779 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/838725/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 67 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 779 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/838725/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 67 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 779 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/838725/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 67 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 779 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/838725/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 67 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Product", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 67 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 779 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/838725/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 67 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 779 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/838725/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 67 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 779 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/838725/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 67 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1426 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1426 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1426 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1426 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1426 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1426 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1426 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=1&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&x_api_version=1.0&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=20&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1422 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=1&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&x_api_version=1.0&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=20&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1422 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=1&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&x_api_version=1.0&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=12&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 825 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/servers/833296/start", "api_version=1.0&x_api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"33", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 201 Created | application/xml 1 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 842 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/servers/838725/start", "api_version=1.0&x_api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"33", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 422 ClientError | application/xml 81 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 842 bytes
+RestClient.post "https://my.rightscale.com/api/acct/26306/servers/833296/start", "api_version=1.0&x_api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"33", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 422 ClientError | application/xml 81 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 842 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/833296", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1010 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 842 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/838725", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1206 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 842 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/838726", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1192 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 842 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/842401", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 724 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 842 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/833296", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1010 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 842 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/838725", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1206 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 842 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/838726", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1192 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 842 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/842401", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 724 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1428 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=2&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=&alert_spec%5Bthreshold%5D=30&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"385", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 422 ClientError | application/xml 166 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1428 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1428 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=3&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=&alert_spec%5Bthreshold%5D=30&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"385", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 422 ClientError | application/xml 166 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1428 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=2&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=&alert_spec%5Bthreshold%5D=30&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"385", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 422 ClientError | application/xml 166 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 914 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1646 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 914 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1646 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 914 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1646 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "server_array%5Belasticity%5D%5Bresize_down_by%5D=1&server_array%5Belasticity%5D%5Bdecision_threshold%5D=51&x_api_version=1.0&server_array%5Belasticity%5D%5Bresize_up_by%5D=1&server_array%5Belasticity%5D%5Bmin_count%5D=0&server_array%5Belasticity%5D%5Bresize_calm_time%5D=5&server_array%5Belasticity%5D%5Bmax_count%5D=10&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"335", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1428 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=2&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=30&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1434 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531913", "alert_spec%5Bduration%5D=60&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=shrink&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=1&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=shrink-when-free&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"395", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1436 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=3&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=30&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1438 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531913", "alert_spec%5Bduration%5D=35&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=shrink&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=3&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=shrink-when-free&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"395", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 924 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1646 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "server_array%5Belasticity%5D%5Bresize_down_by%5D=2&server_array%5Belasticity%5D%5Bdecision_threshold%5D=66&x_api_version=1.0&server_array%5Belasticity%5D%5Bresize_up_by%5D=2&server_array%5Belasticity%5D%5Bmin_count%5D=0&server_array%5Belasticity%5D%5Bresize_calm_time%5D=2&server_array%5Belasticity%5D%5Bmax_count%5D=10&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"335", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1434 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=4&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=40&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1432 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531913", "alert_spec%5Bduration%5D=50&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=shrink&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=1&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=shrink-when-free&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"395", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 926 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1646 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "server_array%5Belasticity%5D%5Bresize_down_by%5D=1&server_array%5Belasticity%5D%5Bdecision_threshold%5D=51&x_api_version=1.0&server_array%5Belasticity%5D%5Bresize_up_by%5D=1&server_array%5Belasticity%5D%5Bmin_count%5D=0&server_array%5Belasticity%5D%5Bresize_calm_time%5D=5&server_array%5Belasticity%5D%5Bmax_count%5D=10&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"335", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1435 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=2&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=30&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1436 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531913", "alert_spec%5Bduration%5D=60&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=shrink&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=1&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=shrink-when-free&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"395", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 924 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1646 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "server_array%5Belasticity%5D%5Bresize_down_by%5D=1&server_array%5Belasticity%5D%5Bdecision_threshold%5D=66&x_api_version=1.0&server_array%5Belasticity%5D%5Bresize_up_by%5D=1&server_array%5Belasticity%5D%5Bmin_count%5D=0&server_array%5Belasticity%5D%5Bresize_calm_time%5D=10&server_array%5Belasticity%5D%5Bmax_count%5D=10&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"336", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1436 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=4&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=40&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1435 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531913", "alert_spec%5Bduration%5D=50&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=shrink&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=1&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=shrink-when-free&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"395", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 920 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1646 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "server_array%5Belasticity%5D%5Bresize_down_by%5D=1&server_array%5Belasticity%5D%5Bdecision_threshold%5D=51&x_api_version=1.0&server_array%5Belasticity%5D%5Bresize_up_by%5D=1&server_array%5Belasticity%5D%5Bmin_count%5D=0&server_array%5Belasticity%5D%5Bresize_calm_time%5D=5&server_array%5Belasticity%5D%5Bmax_count%5D=10&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"335", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1435 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=3&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=30&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1438 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531913", "alert_spec%5Bduration%5D=35&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=shrink&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=3&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=shrink-when-free&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"395", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 924 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1646 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "server_array%5Belasticity%5D%5Bresize_down_by%5D=2&server_array%5Belasticity%5D%5Bdecision_threshold%5D=66&x_api_version=1.0&server_array%5Belasticity%5D%5Bresize_up_by%5D=2&server_array%5Belasticity%5D%5Bmin_count%5D=0&server_array%5Belasticity%5D%5Bresize_calm_time%5D=2&server_array%5Belasticity%5D%5Bmax_count%5D=10&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"335", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1434 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=4&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=40&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1432 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531913", "alert_spec%5Bduration%5D=1&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=shrink&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=50&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=shrink-when-free&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"395", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 926 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1646 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "server_array%5Belasticity%5D%5Bresize_down_by%5D=1&server_array%5Belasticity%5D%5Bdecision_threshold%5D=51&x_api_version=1.0&server_array%5Belasticity%5D%5Bresize_up_by%5D=1&server_array%5Belasticity%5D%5Bmin_count%5D=0&server_array%5Belasticity%5D%5Bresize_calm_time%5D=5&server_array%5Belasticity%5D%5Bmax_count%5D=10&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"335", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1431 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=2&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=30&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1434 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531913", "alert_spec%5Bduration%5D=1&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=shrink&x_api_version=1.0&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=60&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=shrink-when-free&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"395", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 924 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1646 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "server_array%5Belasticity%5D%5Bresize_down_by%5D=1&server_array%5Belasticity%5D%5Bdecision_threshold%5D=66&x_api_version=1.0&server_array%5Belasticity%5D%5Bresize_up_by%5D=1&server_array%5Belasticity%5D%5Bmin_count%5D=0&server_array%5Belasticity%5D%5Bresize_calm_time%5D=10&server_array%5Belasticity%5D%5Bmax_count%5D=10&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"336", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 918 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1318 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "x_api_version=1.0&server_array%5Belasticity%5D%5Bresize_up_by%5D=5&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"82", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 927 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1318 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "server_array%5Belasticity%5D%5Bresize_down_by%5D=5&x_api_version=1.0&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"84", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 918 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1318 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "server_array%5Belasticity%5D%5Bresize_down_by%5D=0&x_api_version=1.0&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"84", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 422 ClientError | application/xml 135 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 918 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1318 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "server_array%5Belasticity%5D%5Bresize_down_by%5D=3&x_api_version=1.0&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"84", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 918 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1318 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "server_array%5Belasticity%5D%5Bresize_down_by%5D=3&x_api_version=1.0&api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"84", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 930 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1318 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 930 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1318 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 930 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1318 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays/9514/instances", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 65 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 932 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1318 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 932 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1318 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 932 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1318 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays/9514/instances", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 532 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1425 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=3&api_version=1.0&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&x_api_version=1.0&alert_spec%5Bthreshold%5D=30&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1436 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531913", "alert_spec%5Bduration%5D=3&api_version=1.0&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=shrink&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&x_api_version=1.0&alert_spec%5Bthreshold%5D=35&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=shrink-when-free&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"395", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 917 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1358 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "api_version=1.0&server_array%5Belasticity%5D%5Bresize_down_by%5D=2&server_array%5Belasticity%5D%5Bdecision_threshold%5D=66&server_array%5Belasticity%5D%5Bresize_up_by%5D=2&server_array%5Belasticity%5D%5Bmin_count%5D=0&x_api_version=1.0&server_array%5Belasticity%5D%5Bresize_calm_time%5D=2&server_array%5Belasticity%5D%5Bmax_count%5D=10", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"335", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1431 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=3&api_version=1.0&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&x_api_version=1.0&alert_spec%5Bthreshold%5D=30&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1431 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531913", "alert_spec%5Bduration%5D=3&api_version=1.0&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=shrink&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&x_api_version=1.0&alert_spec%5Bthreshold%5D=35&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=shrink-when-free&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"395", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 937 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1358 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "api_version=1.0&server_array%5Belasticity%5D%5Bresize_down_by%5D=2&server_array%5Belasticity%5D%5Bdecision_threshold%5D=66&server_array%5Belasticity%5D%5Bresize_up_by%5D=2&server_array%5Belasticity%5D%5Bmin_count%5D=0&x_api_version=1.0&server_array%5Belasticity%5D%5Bresize_calm_time%5D=2&server_array%5Belasticity%5D%5Bmax_count%5D=10", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"335", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1431 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=3&api_version=1.0&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&x_api_version=1.0&alert_spec%5Bthreshold%5D=30&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1431 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531913", "alert_spec%5Bduration%5D=3&api_version=1.0&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=shrink&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&x_api_version=1.0&alert_spec%5Bthreshold%5D=35&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=shrink-when-free&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"395", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 931 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1358 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "api_version=1.0&server_array%5Belasticity%5D%5Bresize_down_by%5D=2&server_array%5Belasticity%5D%5Bdecision_threshold%5D=66&server_array%5Belasticity%5D%5Bresize_up_by%5D=2&server_array%5Belasticity%5D%5Bmin_count%5D=0&x_api_version=1.0&server_array%5Belasticity%5D%5Bresize_calm_time%5D=2&server_array%5Belasticity%5D%5Bmax_count%5D=10", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"335", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1431 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", "alert_spec%5Bduration%5D=2&api_version=1.0&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&x_api_version=1.0&alert_spec%5Bthreshold%5D=30&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1438 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531913", "alert_spec%5Bduration%5D=1&api_version=1.0&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=shrink&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&x_api_version=1.0&alert_spec%5Bthreshold%5D=60&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=shrink-when-free&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"395", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 937 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1358 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", "api_version=1.0&server_array%5Belasticity%5D%5Bresize_down_by%5D=1&server_array%5Belasticity%5D%5Bdecision_threshold%5D=66&server_array%5Belasticity%5D%5Bresize_up_by%5D=1&server_array%5Belasticity%5D%5Bmin_count%5D=0&x_api_version=1.0&server_array%5Belasticity%5D%5Bresize_calm_time%5D=10&server_array%5Belasticity%5D%5Bmax_count%5D=10", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"336", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 840 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/842401/current/settings", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 541 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments?filter=nickname=Production", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 840 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/servers/842401/current/settings", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 541 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_arrays", headers: {"Accept-encoding"=>"gzip, deflate", "X-api-version"=>"1.0", "Accept"=>"*/*; q=0.5, application/xml", "Api-version"=>"1.0"}
+# => 200 OK | application/xml 929 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/deployments", headers: {"Accept-encoding"=>"gzip, deflate", "X-api-version"=>"1.0", "Accept"=>"*/*; q=0.5, application/xml", "Api-version"=>"1.0"}
+# => 200 OK | application/xml 1398 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/server_arrays/9514", headers: {"Accept-encoding"=>"gzip, deflate", "Content-Type"=>"application/x-www-form-urlencoded", "Content-Length"=>"335", "Accept"=>"*/*; q=0.5, application/xml"}, paylod: 335 byte length
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", headers: {"Accept-encoding"=>"gzip, deflate", "X-api-version"=>"1.0", "Accept"=>"*/*; q=0.5, application/xml", "Api-version"=>"1.0"}
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", headers: {"Accept-encoding"=>"gzip, deflate", "X-api-version"=>"1.0", "Accept"=>"*/*; q=0.5, application/xml", "Api-version"=>"1.0"}
+# => 200 OK | application/xml 1425 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", headers: {"Accept-encoding"=>"gzip, deflate", "Content-Type"=>"application/x-www-form-urlencoded", "Content-Length"=>"391", "Accept"=>"*/*; q=0.5, application/xml"}, paylod: 391 byte length
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates", headers: {"Accept-encoding"=>"gzip, deflate", "X-api-version"=>"1.0", "Accept"=>"*/*; q=0.5, application/xml", "Api-version"=>"1.0"}
+# => 200 OK | application/xml 2411 bytes
+RestClient.get "https://my.rightscale.com/api/acct/26306/server_templates/79419/alert_specs", headers: {"Accept-encoding"=>"gzip, deflate", "X-api-version"=>"1.0", "Accept"=>"*/*; q=0.5, application/xml", "Api-version"=>"1.0"}
+# => 200 OK | application/xml 1430 bytes
+RestClient.put "https://my.rightscale.com/api/acct/26306/alert_specs/531912", headers: {"Accept-encoding"=>"gzip, deflate", "Content-Type"=>"application/x-www-form-urlencoded", "Content-Length"=>"391", "Accept"=>"*/*; q=0.5, application/xml"}, paylod: 391 byte length
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/34983/server_arrays", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 888 bytes
+RestClient.get "https://my.rightscale.com/api/acct/34983/deployments", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1317 bytes
+RestClient.put "https://my.rightscale.com/api/acct/34983/server_arrays/11176", "api_version=1.0&server_array%5Belasticity%5D%5Bresize_down_by%5D=1&server_array%5Belasticity%5D%5Bdecision_threshold%5D=51&server_array%5Belasticity%5D%5Bresize_up_by%5D=1&server_array%5Belasticity%5D%5Bmin_count%5D=1&server_array%5Belasticity%5D%5Bresize_calm_time%5D=8&server_array%5Belasticity%5D%5Bmax_count%5D=10&x_api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"335", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/34983/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2698 bytes
+RestClient.get "https://my.rightscale.com/api/acct/34983/server_templates/93059/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1443 bytes
+RestClient.put "https://my.rightscale.com/api/acct/34983/alert_specs/683935", "api_version=1.0&alert_spec%5Bduration%5D=7&alert_spec%5Bcondition%5D=%3C&alert_spec%5Bvote_type%5D=grow&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=45&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=grow-when-busy&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&x_api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"391", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes
+RestClient.get "https://my.rightscale.com/api/acct/34983/server_templates", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 2698 bytes
+RestClient.get "https://my.rightscale.com/api/acct/34983/server_templates/93059/alert_specs", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Api-Version"=>"1.0", "X-Api-Version"=>"1.0"
+# => 200 OK | application/xml 1443 bytes
+RestClient.put "https://my.rightscale.com/api/acct/34983/alert_specs/683929", "api_version=1.0&alert_spec%5Bduration%5D=7&alert_spec%5Bcondition%5D=%3E&alert_spec%5Bvote_type%5D=shrink&alert_spec%5Bfile%5D=cpu-0%2Fcpu-idle&alert_spec%5Bvariable%5D=value&alert_spec%5Bvote_tag%5D=array2&alert_spec%5Bthreshold%5D=50&alert_spec%5Bescalation_name%5D=warning&alert_spec%5Bname%5D=shrink-when-free&alert_spec%5Bdescription%5D=no-desc&alert_spec%5Baction%5D=vote&x_api_version=1.0", "Accept"=>"*/*; q=0.5, application/xml", "Accept-Encoding"=>"gzip, deflate", "Content-Length"=>"395", "Content-Type"=>"application/x-www-form-urlencoded"
+# => 204 NoContent |  0 bytes

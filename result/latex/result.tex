@@ -1,0 +1,143 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[dvips]{graphicx,color} % or [pdftex]?
+\usepackage[top=1in,bottom=1in,left=1.5in,right=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{alltt}
+\usepackage{array}	
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{verbatim}
+\usepackage{url}
+\usepackage{bigdelim}
+\usepackage{bigstrut}
+\usepackage{multirow}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage[dvips]{graphicx}
+\usepackage{subfig}
+\usepackage{ctable}
+\usepackage{array}
+
+\begin{document}
+
+\title{Feedback-based Optimization of a Private Cloud}
+
+\maketitle
+
+\section{case 1}
+rules:
+\begin{itemize}
+  \item if cpu-0/cpu-idle.value $<$ '40' for 4 min then vote to grow array  
+  \item if cpu-0/cpu-idle.value $>$ '50' for 1 min then vote to shrink array
+  \item Rest Period:          5 minutes,       						
+  \item Decision Threshold:    51%              					
+  \item Increase Value:        1							
+  \item Decrease Value:        1                		
+\end{itemize}
+	
+
+\begin{figure*}[h]
+    \centering
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case1A/array_instance_number_time.eps}}
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case1A/avg_idle_time_over_time.eps}}
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case1A/error_over_time.eps}}
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case1A/response_time_over_time.eps}}
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case1A/throughput_over_time.eps}},
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case1A/workload_over_time.eps}}
+    \qquad
+\end{figure*}
+
+\begin{figure*}[h]
+    \centering
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case1B/array_instance_number_time.eps}}
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case1B/avg_idle_time_over_time.eps}}
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case1B/error_over_time.eps}}
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case1B/response_time_over_time.eps}}
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case1B/throughput_over_time.eps}},
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case1B/workload_over_time.eps}}
+    \qquad
+\end{figure*}
+
+\section{case 2}  
+rules:
+\begin{itemize}
+  \item if cpu-0/cpu-idle.value $<$ '30' for 3 min then vote to grow array  
+  \item if cpu-0/cpu-idle.value $>$ '35' for 3 min then vote to shrink array
+  \item Rest Period:          2 minutes,       						
+  \item Decision Threshold:    66%              					
+  \item Increase Value:        2							
+  \item Decrease Value:        1                		
+\end{itemize}
+	
+
+\begin{figure*}[h]
+    \centering
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case2A/array_instance_number_time.eps}}
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case2A/avg_idle_time_over_time.eps}}
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case2A/error_over_time.eps}}
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case2A/response_time_over_time.eps}}
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case2A/throughput_over_time.eps}},
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case2A/workload_over_time.eps}}
+    \qquad
+\end{figure*}
+
+\begin{figure*}[h]
+    \centering
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case2B/array_instance_number_time.eps}}
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case2B/avg_idle_time_over_time.eps}}
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case2B/error_over_time.eps}}
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case2B/response_time_over_time.eps}}
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case2B/throughput_over_time.eps}},
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case2B/workload_over_time.eps}}
+    \qquad
+\end{figure*}
+
+\section{case 3}  
+rules:
+\begin{itemize}
+  \item if cpu-0/cpu-idle.value $<$ '30' for 2 min then vote to grow array  
+  \item if cpu-0/cpu-idle.value $>$ '60' for 1 min then vote to shrink array
+  \item Rest Period:          10 minutes,       						
+  \item Decision Threshold:    66%              					
+  \item Increase Value:        1							
+  \item Decrease Value:        2                		
+\end{itemize}
+
+\begin{figure*}[h]
+    \centering
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case3A/array_instance_number_time.eps}}
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case3A/avg_idle_time_over_time.eps}}
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case3A/error_over_time.eps}}
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case3A/response_time_over_time.eps}}
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case3A/throughput_over_time.eps}},
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case3A/workload_over_time.eps}}
+    \qquad
+\end{figure*}
+
+\begin{figure*}[h]
+    \centering
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case3B/array_instance_number_time.eps}}
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case3B/avg_idle_time_over_time.eps}}
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case3B/error_over_time.eps}}
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case3B/response_time_over_time.eps}}
+    \qquad
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case3B/throughput_over_time.eps}},
+    \subfloat[][]{\includegraphics[width=0.40\textwidth]{../figure/case3B/workload_over_time.eps}}
+    \qquad
+\end{figure*}
+
+\end{document}
+ 

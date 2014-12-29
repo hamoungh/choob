@@ -1,0 +1,12 @@
+case 1_1
+	 if cpu-0/cpu-idle.value < '40' for 4 min then vote to grow array  
+	if cpu-0/cpu-idle.value > '50' for 1 min then vote to shrink array
+case 1_2
+    	 if cpu-0/cpu-idle.value < '35' for 4 min then vote to grow array  
+	if cpu-0/cpu-idle.value > '50' for 1 min then vote to shrink array
+case 2_1
+    	 if cpu-0/cpu-idle.value < '30' for 4 min then vote to grow array  
+	if cpu-0/cpu-idle.value > '35' for 1 min then vote to shrink array
+	2  minutes  refractory, 66%, add 2 remove 1
+
+
